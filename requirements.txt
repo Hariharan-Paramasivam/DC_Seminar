@@ -1,14 +1,6 @@
 Flask
 gitdb
 GitPython
-greenlet
-hibagent
-httplib2
-hyperlink
-idna
-importlib-metadata
-incremental
-itsdangerous
 kafka-python
 pandas
 
